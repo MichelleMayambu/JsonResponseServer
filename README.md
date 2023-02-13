@@ -1,10 +1,10 @@
 # JsonResponseServer
 json Server
 
-##install
+## install
 
 npm install
 
-##run
+## run
 json-server --watch bikes_response.json --port 3004
 
